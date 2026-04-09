@@ -69,3 +69,6 @@ Lihat `requirements.txt` untuk daftar lengkap.
 - **Dataset:** Bike Sharing Dataset
 - **Sumber:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 - **Referensi:** Fanaee-T, Hadi, and Gama, Joao (2013). _Event labeling combining ensemble detectors and background knowledge_. Progress in Artificial Intelligence.
+# Link Streamlit
+
+https://bike-sharing-analytics-dewi.streamlit.app
