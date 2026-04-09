@@ -1,4 +1,1 @@
-https://your-dashboard-name.streamlit.app
-
-# Ganti URL di atas setelah Anda deploy ke Streamlit Community Cloud
-# Panduan deploy: https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
+https://bike-sharing-analytics-dewi.streamlit.app
